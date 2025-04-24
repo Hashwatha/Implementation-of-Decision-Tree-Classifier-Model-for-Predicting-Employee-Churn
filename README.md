@@ -78,7 +78,7 @@ print("Reg no:212223240051")
 
 ![image](https://github.com/user-attachments/assets/e082f996-855c-437d-b9dc-171605c6ceff)
 
-![image](https://github.com/user-attachments/assets/6c90e516-d99d-450e-86f9-86028b3af70f)
+![image](https://github.com/user-attachments/assets/1be9e773-abd7-49bf-b2ea-f9b7a28f419a)
 
 ![image](https://github.com/user-attachments/assets/3170e7e1-30b9-4fcc-b0c2-f883464a6ae8)
 
